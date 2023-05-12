@@ -1,12 +1,10 @@
 body{
-    background-image: linear-gradient(to left,aquamarine, black);
+    background-image: linear-gradient(to right,rgb(152, 48, 152), rgb(65, 65, 156),rgb(134, 126, 244));
     position:relative
 }
-span{
-    color: red;
-}
+
 p{
-    color: white;
+    color: black;
 }
 #rodape {
     background-color: #f2f2f2;
@@ -31,6 +29,7 @@ p{
     background: #eee;
 }
 .footer {
+    background-color: black;
     margin: auto;
     width: 100%;
     bottom: 0;
@@ -40,16 +39,27 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-  }
-  
-  table {
+}
+
+table {
     width: 100%;
     height: 100%;
     border-collapse: collapse;
-  }
-  
-  td {
+}
+
+td {
     border: 1px solid black;
     padding: 10px;
-  }
-    
+}
+#img1{
+    width: 300px;
+    height: 200px;
+}
+#img2{
+    width: 300px;
+    height: 200px;
+}
+#img3{
+    width: 300px;
+    height: 200px;
+}
